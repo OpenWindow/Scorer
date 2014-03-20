@@ -32,7 +32,7 @@ namespace Scorer.Mobile
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication();
+            app.UseGoogleAuthentication();
         }
     }
 }
